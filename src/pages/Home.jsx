@@ -38,7 +38,7 @@ const Home = () => {
         <div>
           <div className="sm:relative  z-10">
             <h1 className="font-semibold m-0 p-0 w-auto tracking-tight md:tracking-tighter  text-center  pt-2 md:pt-0 text-[50px] md:text-4xl leading-tight md:leading-[72px] lg:leading-[118px] text-white lg:text-[118px]   ">
-              The rate drop you've <br /> been waiting for
+              The rate drop you&apos;ve <br /> been waiting for
             </h1>
           </div>
           <div className="absolute top-[340px ] z-0    ml-[30px] sm:-mt-[50px]  sm:ml-[50px] flex flex-col sm:flex-row justify-center items-center gap-10">
@@ -94,8 +94,7 @@ const Home = () => {
         <div className="flex flex-col justify-start items-start ">
           <div className="flex flex-col gap-y-24">
             <h1 className="font-semibold leading-0 sm:leading-[90px] m-0 p-0 w-auto tracking-tight md:tracking-tighter mb-lg text-xl   md:text-[100px] h-[100px]   ">
-              Find out why <br /> we're better
-            </h1>
+            Find out why <br /> we&apos;re better            </h1>
             <button className=" inline-flex items-center justify-center whitespace-nowrap rounded-full text-base font-bold leading-normal disabled:pointer-events-none disabled:opacity-50 transition-all ease-in-out duration-200 hover:bg-[#017848] bg-[#004733] h-16 px-12 py-5 w-full md:w-fit text-white ">
               See all our stories
             </button>
