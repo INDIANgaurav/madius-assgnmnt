@@ -5,7 +5,7 @@ const HomePage3rd = () => {
     <div className="mt-32">
       <div className="flex justify-between items-end sm:px-20 ">
         <h1 className="font-semibold  sm:text-6xl leading-[50px]"> Got questions? <br />
-        We've got answers</h1>
+        We&apos;ve got answers</h1>
 
         <div>
             <button   className="inline-flex items-center justify-center whitespace-nowrap rounded-full text-base font-bold leading-normal disabled:pointer-events-none disabled:opacity-50 transition-all ease-in-out duration-200 border border-strokeDivider    hover:shadow-[0_0_0_4px_inset] h-12 px-6 py-3 w-auto">our products</button>
